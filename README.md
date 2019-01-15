@@ -1,8 +1,16 @@
 # bootcamp-prep-day-1.1
-No Passwords
-one more change
 
-Add stuff dhjhsdsjhdsjdhsj 
-More changes, yada yada yada 
+# Things That I Learned
 
-Here's another line
+how to _push_ to **GitHub**
+
+``` js
+// this is javascript code
+var x = 1 +2;
+```
+### Days of the Week
+* Monday
+* Tuesday
+* Etc.
+
+
